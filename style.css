@@ -1,0 +1,45 @@
+/*Selector Tag HTML*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: #92adc7;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 48px;
+}
+p {
+    color: #ff00b7;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+/*Selector Class CSS*/
+.red {
+    color: #ff0000;
+    font-size: 20px;
+}
+.blue {
+    color: #0000ff;
+    font-size: 30px;
+}.yellow {
+    color: #ffff00;
+    font-size: 40px;
+}.grey {
+    color: #808080;
+    font-size: 60px;
+}.brown {
+    color: #4e3939;
+    font-size: 50px;
+}
+.green {
+    color: #55fe00;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+/*Selector ID CSS*/
+#huruf-besar {
+    text-transform: uppercase;
+    border: 2px solid ;
+    color: antiquewhite;
+}
